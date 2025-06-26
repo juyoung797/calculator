@@ -38,5 +38,4 @@ public class CalculatorController{
         }
         return "calculator";
     }
-
 }
